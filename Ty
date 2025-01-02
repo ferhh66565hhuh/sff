@@ -5,4 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/sff.git
 git push -u origin main
-warp://p1@rg.sseinshow.ir:897/?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#h1&&detour=warp://p2@rg.sseinshow.ir:897/?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#h2
+warp://rg.sseinshow.ir:897/?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#h1&&detour=warp://rg.sseinshow.ir:897/?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#h2
